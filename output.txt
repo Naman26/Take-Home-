@@ -1,0 +1,10 @@
+meta: https://scooptacular.net
+meta: https://scooptacular.net/img/uploaded/379d05029c0d84618c70ac037a25fd88.jpg
+meta: https://scooptacular.net/img/uploaded/4baaa58a1a37fd3da3e4e78caf366b7f.jpg
+link: https://fonts.googleapis.com/css
+link: https://fonts.googleapis.com/css
+link: https://fonts.googleapis.com/css
+link: https://fonts.googleapis.com/css
+script: https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js
+script: https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js
+script: https://js.braintreegateway.com/v2/braintree.js
